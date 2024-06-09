@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-qrcode-mask": ["./src/index"]
+      "@artefan/react-native-qrcode-mask": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
