@@ -1,5 +1,5 @@
 {
-  "name": "react-native-qrcode-mask",
+  "name": "@artefan/react-native-qrcode-mask",
   "version": "0.1.0",
   "description": "react-native-qrcode-mask",
   "main": "lib/commonjs/index",
