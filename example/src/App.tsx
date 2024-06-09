@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { SafeAreaView } from 'react-native';
-import QrcodeMask from 'react-native-qrcode-mask';
+import QrcodeMask from '@artefan/react-native-qrcode-mask';
 
 export default function App() {
   return (

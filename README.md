@@ -1,17 +1,17 @@
-# react-native-qrcode-mask
+# @artefan/react-native-qrcode-mask
 
 `QrcodeMask`, is designed to display a masking layer over a QR code. It provides customization options for the appearance of the masking layer.
 
 ## Installation
 
-You can install `react-native-qrcode-mask` via npm or yarn:
+You can install `@artefan/react-native-qrcode-mask` via npm or yarn:
 
 ```bash
-npm install react-native-qrcode-mask
+npm install @artefan/react-native-qrcode-mask
 ```
 or
 ```bash
-yarn add react-native-qrcode-mask
+yarn add @artefan/react-native-qrcode-mask
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ yarn add react-native-qrcode-mask
 import * as React from 'react';
 
 import { SafeAreaView } from 'react-native';
-import QrcodeMask from 'react-native-qrcode-mask';
+import QrcodeMask from '@artefan/react-native-qrcode-mask';
 
 export default function App() {
   return (
